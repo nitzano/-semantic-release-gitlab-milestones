@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release-gitlab-milestones",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "git@github.com:nitzano/semantic-release-gitlab-milestones.git",
+  "author": "Nitzan Ohana <16689354+nitzano@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^18.0.0"
+  },
+  "scripts": {
+    "release": "semantic-release"
+  }
+}
