@@ -1,3 +1,3 @@
-# Semantic-release-github-milestones
+# Semantic-release-gitlab-milestones
 
-Sync your github milestones with semantic release
+Sync your gitlab milestones with semantic release
